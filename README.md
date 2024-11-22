@@ -1,5 +1,5 @@
 # 💫About Me :
-✨Front End Developer | i'm currently learning react 💻
+✨Front End Developer | i'm currently learning react and Laravel 💻
  let's build something amazing togother 🚀
 
 ## 🌐Socials
