@@ -1,6 +1,5 @@
 # 💫About Me :
-✨Front End Developer | i'm currently learning react and Laravel 💻
- let's build something amazing togother 🚀
+✨Full Stack Developer | Computer Engineer | PHP, JavaScript, TypeScript ,NextJS , Laravel & React Enthusiast 🚀
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HusamALSaket) 
